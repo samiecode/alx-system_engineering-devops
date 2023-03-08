@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l --all --author
+ls -l -n -all
